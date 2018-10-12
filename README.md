@@ -18,7 +18,7 @@ foo2=/Users/aske/Repos/intellij-filtering-bug
 foo3=parent
 ```
 
-##Environment:
+## Environment:
 
 IntelliJ IDEA 2018.2.4 (Ultimate Edition)
 Build #IU-182.4505.22, built on September 18, 2018
