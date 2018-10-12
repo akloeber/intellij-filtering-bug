@@ -1,4 +1,4 @@
-# Filtering of Maven property property project.parent.basedir does not work withuin IntelliJ
+# Filtering of Maven property property `project.parent.basedir` does not work within IntelliJ
 
 IntelliJ IDEA does not recognize Maven property `project.parent.basedir` during filtering although it does filter properties `project.basedir` or `project.parent.artifactId` in the same file correctly.
 
