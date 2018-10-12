@@ -20,12 +20,10 @@ foo3=parent
 
 ## Environment:
 
-IntelliJ IDEA 2018.2.4 (Ultimate Edition)
-Build #IU-182.4505.22, built on September 18, 2018
-Licensed to GFT Technologies SE / Andreas Klöber
-Subscription is active until June 12, 2019
-JRE: 1.8.0_152-release-1248-b8 x86_64
-JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
-macOS 10.13.6- maven 3.5.2
-maven-resources-plugin 3.1.0
+- IntelliJ IDEA 2018.2.4 (Ultimate Edition)  
+  Build #IU-182.4505.22, built on September 18, 2018
+- JRE: 1.8.0_152-release-1248-b8 x86_64
+- JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+- macOS 10.13.6- maven 3.5.2
+- maven-resources-plugin 3.1.0
 
